@@ -1,0 +1,61 @@
+[
+  {
+    "bookId": 101,
+    "title": "CleanCode",
+    "author": "Robert C Marin",
+    "publishDate":"1/1/2012",
+    "price": 903,
+    "status": "available",
+    "availableCount": 11
+  },
+  {
+
+    "bookId": 102,
+    "title": "Introduction to Algorithm",
+    "author": "Thomas H Cormen",
+    "publishDate":"1/9/2009",
+    "price": 624,
+    "status": "unavailable",
+    "availableCount": 0
+  },
+  {
+    "bookId": 103,
+    "title": "Head First Java",
+    "author": "Kathy Sierra",
+    "publishDate": "1/1/2009",
+    "price": 1200,
+    "status": "available",
+    "availableCount": 20
+  },
+  {
+    "bookId": 104,
+    "title": "Data Structure and Algorithm",
+    "author": "Narasimha Karumanchi",
+    "publishDate": "14/9/2011",
+    "price": 575,
+    "status": "available",
+    "availableCount": 8
+
+  },
+  {
+    "bookId": 105,
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "publishDate": "1/1/1999",
+    "price": 750,
+    "status": "unavailable",
+    "availableCount": 0
+
+  },
+  {
+    "bookId": 106,
+    "title": "C programming language",
+    "author": "Dennis Ritchie",
+    "publishDate": "22/2/1978",
+    "price": 500,
+    "status": "available",
+    "availableCount": 5
+
+  }
+
+]

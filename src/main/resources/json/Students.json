@@ -1,0 +1,23 @@
+[
+  {
+    "studentId": 10,
+    "name": "Gourav Thakur",
+    "bookId":101,
+    "date": "2016-11-02"
+
+  },
+  {
+    "studentId": 21,
+    "name": "Abhishek anand",
+    "bookId":106,
+    "date": "2016-10-12"
+  },
+  {
+    "studentId": 28,
+    "name": "yash namdev",
+    "bookId":104,
+    "date": "2016-06-20"
+
+  }
+
+]
